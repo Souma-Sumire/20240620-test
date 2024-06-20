@@ -1,4 +1,4 @@
-console.log("Hello World!");
+console.log("Hello Raidboss!");
 Options.Triggers.push({
   id: "test_20240620",
   zoneId: ZoneId.MatchAll,
